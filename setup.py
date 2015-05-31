@@ -12,6 +12,7 @@ setup(
     description="Show useful git hooks",
     license="MIT",
     author="JuanPabloAJ",
+    author_email="jpabloaj@gmail.com",
     packages=find_packages(),
     install_requires=[],
     long_description=long_description,
