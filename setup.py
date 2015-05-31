@@ -18,7 +18,7 @@ setup(
     install_requires=[],
     long_description=long_description,
     package_data={
-        'githooks': ['hooks/*']
+        'githooks': ['hooks/*/*']
     },
     entry_points={
         'console_scripts': [
