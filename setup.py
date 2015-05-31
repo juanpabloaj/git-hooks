@@ -8,7 +8,7 @@ except IOError:
 
 setup(
     name="git-hooks",
-    version="0.0.2",
+    version="0.0.3",
     description="Show useful git hooks",
     license="MIT",
     author="JuanPabloAJ",
