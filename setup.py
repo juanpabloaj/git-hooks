@@ -13,6 +13,7 @@ setup(
     license="MIT",
     author="JuanPabloAJ",
     author_email="jpabloaj@gmail.com",
+    url="https://github.com/juanpabloaj/git-hooks",
     packages=find_packages(),
     install_requires=[],
     long_description=long_description,
